@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ICYPINKS.png" alt="iCYBANNER" width="100%" />
+  <img src="./assets/ICYPINKS.svg" alt="iCYBANNER" width="100%" />
 </p>
 
 <div align="center">
@@ -20,21 +20,9 @@ I also really enjoy building things with friends, whether it’s serious product
 
 Most people online know me as **"iCY"** — originally short for _“I am Cynthia,”_ which started as one of my first usernames and somehow never left. Now it’s basically part of my identity across projects, experiments, and everything creative I touch. So yeah, you can call me iCY if you want :)
 
-## Currently Playing ⋆˚࿔
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ohzh6htixoac2h64m3ojod1bd&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=ffffff&bar_color_cover=false"/>
-</p>
-
 ---
 
 ## Stats ₍^. .^₎Ⳋ
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icywest&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icywest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icywest&theme=tokyonight&hide_border=true"/>
